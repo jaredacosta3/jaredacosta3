@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi, my name is Jared Acosta
+### 🤖 I'm interested in robotics, especially ones that go into space
+### 🎓 I have an AS Degree in Computer Information Systems and currently working on my BS Degree in Computer Engineering 
 
 <!--
 **jaredacosta3/jaredacosta3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
